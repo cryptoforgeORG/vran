@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 336378105
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c836d88ea558aaf8d8774383e4ece2ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ab7d97db2492d6b12c473d9faabab39b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d10fefe188f434d55a026b1c864a0ec8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+Assets:
+- Assets/Cylinder.prefab
+Dependencies: []
